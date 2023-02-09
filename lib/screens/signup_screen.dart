@@ -1,4 +1,4 @@
-import 'package:canteen_app/screens/order_screen.dart';
+import 'package:canteen_app/screens/users_screen.dart';
 import 'package:canteen_app/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get_storage/get_storage.dart';
@@ -108,13 +108,14 @@ class SignupScreen extends StatelessWidget {
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10)),
                     onPressed: () {
+                      //G GI COMMENT LANG NAKO NIA LANSOY KAY PARA MA CLICK RA DIRETSO
                       // box.write('myEmail', email);
                       // box.write('myPassword', password);
                       // box.write('myFinalPassword', confirm_password);
                       // if (password == confirm_password) {
                       //   box.write('myFinalPassword', confirm_password);
                       Navigator.of(context).push(MaterialPageRoute(
-                          builder: (context) => const OrderScreen()));
+                          builder: (context) => const UserScreen()));
                       // } else {
                       //   showDialog(
                       //       barrierDismissible: false,

@@ -1,3 +1,4 @@
+import 'package:canteen_app/screens/confirmation_screen.dart';
 import 'package:canteen_app/screens/order_screen.dart';
 import 'package:canteen_app/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
@@ -298,7 +299,7 @@ class OrderDetailsScreen extends StatelessWidget {
                 child: MaterialButton(
                   onPressed: () {
                     Navigator.of(context).pushReplacement(MaterialPageRoute(
-                        builder: (context) => OrderDetailsScreen()));
+                        builder: (context) => const ConfirmationScreen()));
                   },
                   child: TextRegular(
                       text: 'Next', fontSize: 25, color: Colors.black),

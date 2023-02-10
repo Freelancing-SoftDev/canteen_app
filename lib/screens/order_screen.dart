@@ -291,7 +291,7 @@ class _OrderScreenState extends State<OrderScreen> {
                         },
                         decoration: InputDecoration(
                           label: TextRegular(
-                              text: 'Enter Qua  ntity',
+                              text: 'Enter Quantity',
                               fontSize: 12,
                               color: Colors.black),
                           filled: true,

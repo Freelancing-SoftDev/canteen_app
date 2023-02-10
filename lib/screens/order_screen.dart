@@ -52,14 +52,14 @@ class _OrderScreenState extends State<OrderScreen> {
                     padding: const EdgeInsets.only(top: 15),
                     child: Container(
                       height: 100,
-                      width: 100,
+                      width: 150,
                       decoration: BoxDecoration(
                           color: Colors.white,
                           image: const DecorationImage(
-                            image: AssetImage('assets/images/male.png'),
+                            image: AssetImage('assets/images/store.png'),
                             fit: BoxFit.fitHeight,
                           ),
-                          borderRadius: BorderRadius.circular(25)),
+                          borderRadius: BorderRadius.circular(10)),
                     ),
                   ),
                   Column(
@@ -104,14 +104,14 @@ class _OrderScreenState extends State<OrderScreen> {
                     padding: const EdgeInsets.only(top: 15),
                     child: Container(
                       height: 100,
-                      width: 100,
+                      width: 150,
                       decoration: BoxDecoration(
                           color: Colors.white,
                           image: const DecorationImage(
-                            image: AssetImage('assets/images/male.png'),
+                            image: AssetImage('assets/images/store.png'),
                             fit: BoxFit.fitHeight,
                           ),
-                          borderRadius: BorderRadius.circular(25)),
+                          borderRadius: BorderRadius.circular(10)),
                     ),
                   ),
                   Column(
@@ -156,14 +156,14 @@ class _OrderScreenState extends State<OrderScreen> {
                     padding: const EdgeInsets.only(top: 15),
                     child: Container(
                       height: 100,
-                      width: 100,
+                      width: 150,
                       decoration: BoxDecoration(
                           color: Colors.white,
                           image: const DecorationImage(
-                            image: AssetImage('assets/images/male.png'),
+                            image: AssetImage('assets/images/store.png'),
                             fit: BoxFit.fitHeight,
                           ),
-                          borderRadius: BorderRadius.circular(25)),
+                          borderRadius: BorderRadius.circular(10)),
                     ),
                   ),
                   Column(
@@ -208,14 +208,14 @@ class _OrderScreenState extends State<OrderScreen> {
                     padding: const EdgeInsets.only(top: 15),
                     child: Container(
                       height: 100,
-                      width: 100,
+                      width: 150,
                       decoration: BoxDecoration(
                           color: Colors.white,
                           image: const DecorationImage(
-                            image: AssetImage('assets/images/male.png'),
+                            image: AssetImage('assets/images/store.png'),
                             fit: BoxFit.fitHeight,
                           ),
-                          borderRadius: BorderRadius.circular(25)),
+                          borderRadius: BorderRadius.circular(10)),
                     ),
                   ),
                   Column(
@@ -260,14 +260,14 @@ class _OrderScreenState extends State<OrderScreen> {
                     padding: const EdgeInsets.only(top: 15),
                     child: Container(
                       height: 100,
-                      width: 100,
+                      width: 150,
                       decoration: BoxDecoration(
                           color: Colors.white,
                           image: const DecorationImage(
-                            image: AssetImage('assets/images/male.png'),
+                            image: AssetImage('assets/images/store.png'),
                             fit: BoxFit.fitHeight,
                           ),
-                          borderRadius: BorderRadius.circular(25)),
+                          borderRadius: BorderRadius.circular(10)),
                     ),
                   ),
                   Column(
@@ -312,14 +312,14 @@ class _OrderScreenState extends State<OrderScreen> {
                     padding: const EdgeInsets.only(top: 15),
                     child: Container(
                       height: 100,
-                      width: 100,
+                      width: 150,
                       decoration: BoxDecoration(
                           color: Colors.white,
                           image: const DecorationImage(
-                            image: AssetImage('assets/images/male.png'),
+                            image: AssetImage('assets/images/store.png'),
                             fit: BoxFit.fitHeight,
                           ),
-                          borderRadius: BorderRadius.circular(25)),
+                          borderRadius: BorderRadius.circular(10)),
                     ),
                   ),
                   Column(

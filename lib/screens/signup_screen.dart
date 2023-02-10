@@ -108,7 +108,8 @@ class SignupScreen extends StatelessWidget {
                     shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10)),
                     onPressed: () {
-                      //G GI COMMENT LANG NAKO NIA LANSOY KAY PARA MA CLICK RA DIRETSO
+                      //GI COMMENT LANG NAKO NIA LANSOY KAY PARA MA CLICK RA DIRETSO
+
                       // box.write('myEmail', email);
                       // box.write('myPassword', password);
                       // box.write('myFinalPassword', confirm_password);
